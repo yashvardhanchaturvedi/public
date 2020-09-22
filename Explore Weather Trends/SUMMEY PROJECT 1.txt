@@ -1,0 +1,9 @@
+SELECT city
+FROM city_list
+WHERE country='India';
+
+
+
+SELECT avg_temp
+FROM city_data
+WHERE city='Jaipur';s
